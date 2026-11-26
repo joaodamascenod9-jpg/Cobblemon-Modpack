@@ -23,7 +23,7 @@ Acesse a seção Releases deste repositório para baixar a versão mais recente 
 
 Faça parte da Blood Night e venha jogar com a gente!
 
-🔗 https://discord.gg/S7SVSRmQ4a
+🔗 [https://discord.gg/S7SVSRmQ4a](https://discord.gg/Sc6E6y3MBB)
 
 ## 👑 Créditos
 
