@@ -12,6 +12,7 @@ Prepare-se para explorar, capturar Pokémon, enfrentar desafios e viver aventura
 - **Criador:** Ryze
 - **Minecraft:** Java Edition 1.21.1
 - **Versão do modpack:** 1.0
+- **IP do servidor: bloodnight.seedloaf.gg**
 - **Servidor Minecraft:** Cobblemon Blood Night
 - **Comunidade Discord:** Blood Night
 
