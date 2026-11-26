@@ -20,6 +20,13 @@ Prepare-se para explorar, capturar Pokémon, enfrentar desafios e viver aventura
 
 Acesse a seção Releases deste repositório para baixar a versão mais recente do modpack.
 
+## 🌐 Modrinth
+
+1. Abra o Release Modrinth_v1.0 e baixe o arquivo Blood-Moon-Atualizado.mrpack
+2. Abra seu Modrinth e clique no simbolo de "+" próximo ao conato inferior esquerdo encima da engrenagem
+3. Clique na opção "Upload a modpack" e procure o arquivo que você baixou
+4. A partir daí é so esperar a instância ser criada e o servidor já vai estar adicionado a lista de servidores
+
 ## 💬 Entre na comunidade
 
 Faça parte da Blood Night e venha jogar com a gente!
